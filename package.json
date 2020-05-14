@@ -1,0 +1,25 @@
+{
+  "name": "blackjack-n-deck",
+  "version": "1.0.0",
+  "description": "Library for Blackjack and Deck generation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimdenGD/blackjack-js.git"
+  },
+  "keywords": [
+    "blackjack",
+    "deck",
+    "cards",
+    "game"
+  ],
+  "author": "dimden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimdenGD/blackjack-js/issues"
+  },
+  "homepage": "https://github.com/dimdenGD/blackjack-js#readme"
+}
