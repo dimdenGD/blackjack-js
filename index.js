@@ -79,7 +79,7 @@ class Blackjack {
 	}
 	hit(noEvent) {
 		if(this.status !== 0) return;
-		if(this.player.score <= 11) this.player.cards.push(this.deck.getRandomCard());
+		this.player.cards.push(this.deck.getRandomCard());
 		this.player.score += this.player.cards.reverse()[0].value;
 		if(this.player.score === 21) {
 			let dcard = this.deck.getRandomCard();
