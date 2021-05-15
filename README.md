@@ -114,7 +114,7 @@ Get first card from array.
 
 Get array with 2 cards and their value.  
 `[card1, card2, totalvalue]`  
-If both cards are aces then totalvalue becomes 1 instead of 22.
+If both cards are aces then totalvalue becomes 2 instead of 22.
 
 # License
 
