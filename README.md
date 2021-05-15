@@ -2,6 +2,8 @@
 
 Library for Blackjack and Deck generation. Package on NPM: [blackjack-n-deck](https://www.npmjs.com/package/blackjack-n-deck).
 
+[Discord server](https://discord.gg/5jm5P3SJF3)
+
 ## Blackjack
 
 ***`new Blackjack(bet, amount)`***  
